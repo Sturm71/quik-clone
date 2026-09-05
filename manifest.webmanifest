@@ -1,0 +1,32 @@
+{
+  "name": "Quik Clone — Storie automatiche",
+  "short_name": "Quik",
+  "description": "Le tue clip diventano storie: montaggio automatico a tempo di musica, temi, filtri ed export.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1015",
+  "theme_color": "#0d1015",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "https://image.qwenlm.ai/generated-images/f423ff2a-64be-41ec-9635-bd203ea621c4/_result.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://image.qwenlm.ai/generated-images/f423ff2a-64be-41ec-9635-bd203ea621c4/_result.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
